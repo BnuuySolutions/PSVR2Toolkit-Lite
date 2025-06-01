@@ -1,1 +1,1 @@
-# PSVR2Toolkit-Lite
+# PlayStation VR2 Toolkit Lite
